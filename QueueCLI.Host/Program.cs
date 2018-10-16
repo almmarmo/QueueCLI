@@ -6,7 +6,7 @@ using QueueCLI.Background.Enums;
 using QueueCLI.Background.Factories;
 using QueueCLI.Background.IO;
 using QueueCLI.Broker.Abstractions;
-using QueueCLI.Broker.ActiveMQ.DependencyInjection;
+using QueueCLI.Broker.ActiveMQ.NetCore.DependencyInjection;
 using QueueCLI.Broker.RabbitMQ.DependencyInjection;
 using System;
 using System.Collections.Generic;
